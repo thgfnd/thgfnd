@@ -1,4 +1,4 @@
-<h1 align="left">Olá Mundo kkk  Meu nome é Thiago Fernandes</h1>
+<h1 align="left">Thiago Fernandes</h1>
 
 ###
 
